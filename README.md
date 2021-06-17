@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá, seja muito bem vindo (a) ao meu perfil!!
 
-<!--
-**Viniradis/Viniradis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tudo bem? Me chamo Vinicius, sou apaixonado por tecnologia, sou Desenvolvedor Front-End. Moro em São Paulo e estou cursando  meu 2 semestre de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Acredito na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo habilidades em trabalhar com desenvolvimento Front-End. Desenvolvo sites, e-commerces e APIs com as tecnologias mais atuais.
+Principais tecnologias/aplicações utilizadas: 
+
+- HTML5 💻
+- CSS3  💻
+- JavaScript 💻
+- Bootstrap 💻
+- Git e Github 💻
+- PHP 💻
+
