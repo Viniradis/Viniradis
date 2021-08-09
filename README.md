@@ -1,16 +1,31 @@
-Olá, seja muito bem vindo (a) ao meu perfil!!
+## Olá, seja muito bem vindo (a) ao meu Github. 
+### Me chamo Vinícius Radis, mas pode me chamar de Viniradis 😄
 
-Tudo bem? Me chamo Vinicius, sou apaixonado por tecnologia, sou Desenvolvedor Front-End. Moro em São Paulo e estou cursando  meu 2 semestre de Análise e Desenvolvimento de Sistemas.
+- 💻 Hoje sou estudande de Análise e Desenvolvimento de Sistemas. (2 semestre )
+- 📚 Me especializando em desenvolvimento Front-End.
 
-Acredito na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
 
-Possuo habilidades em trabalhar com desenvolvimento Front-End. Desenvolvo sites, e-commerces e APIs com as tecnologias mais atuais.
-Principais tecnologias/aplicações utilizadas: 
-
-- HTML5 💻
-- CSS3  💻
-- JavaScript 💻
-- Bootstrap 💻
-- Git e Github 💻
-- PHP 💻
-
+<div>
+  <a href="https://github.com/Viniradis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniradis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniradis&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+  <div>
+  <a href="https://instagram.com/viniradis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:viniradis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-radis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  
+  
+  
+   ![Snake animation](https://github.com/Viniradis/Viniradis/blob/output/github-contribution-grid-snake.svg)
