@@ -2,6 +2,7 @@
 ### Me chamo Vinícius Radis, mas pode me chamar de Viniradis 😄
 
 - 💻 Hoje sou estudande de Análise e Desenvolvimento de Sistemas. (2 semestre )
+- 👨‍💻 Atuando como Development Tech na Pontomais. 
 - 📚 Me especializando em desenvolvimento Front-End.
 
 
