@@ -1,5 +1,5 @@
 ## Olá, seja muito bem vindo (a) ao meu Github. 
-### Me chamo Vinícius Radis, mas pode me chamar de Viniradis 😄
+### Me chamo Vinícius Radis, mas pode me chamar de Vini 😄
 
 - 💻 Hoje sou estudande de Análise e Desenvolvimento de Sistemas. (2 semestre )
 - 👨‍💻 Atuando como Development Tech na Pontomais. 
