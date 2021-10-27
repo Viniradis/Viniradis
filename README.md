@@ -34,6 +34,7 @@ sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar  Dev Fro
   HTML5, CSS3, Sass, Git, Github, JavaScript, ES6, Angular 9, Design(Figma).
   
   Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban).
+ 
   Execução de Testes unitários (Karma, Jasmine).
 
 - Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
