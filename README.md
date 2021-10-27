@@ -1,9 +1,53 @@
-## Olá, seja muito bem vindo (a) ao meu Github. 
-### Me chamo Vinícius Radis, mas pode me chamar de Vini 😄
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- 💻 Hoje sou estudande de Análise e Desenvolvimento de Sistemas. (2 semestre )
-- 👨‍💻 Atuando como Development Tech na Pontomais. 
-- 📚 Me especializando em desenvolvimento Front-End.
+<hr>
+
+
+
+<h3 align="center">  <br>
+
+Olá, eu sou o Vinícius! 🇧🇷
+<br>
+
+</h3>
+
+```
+Estudante de Análise e Desenvolvimento de Sistemas pela  - Universidade Cruzeiro do Sul, 
+sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar  Dev Front-end.
+```
+## Tecnologias que estou estudando atualmente 💻
+
+  - Bootstrap
+  - TypeScript
+  - Gerenciamento de pacotes: npm/yarn
+  - Build Tools: Gulp
+  - React.js
+  - Next.js
+  
+
+## Alguns fatos sobre mim 👨🏻‍💻
+
+- Desenvolvedor Front-end a 1 ano.
+- Possuo habilidades em trabalhar com desenvolvimento Front-End. Conto ainda com Skills em diversas tecnologias e ferramentas como:
+  HTML5, CSS3, Sass, Git, Github, JavaScript, ES6, Angular 9, Design(Figma).
+  
+  Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban).
+
+- Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
+
+- Busco sempre estar ligado nas novas tendências do mercado e estar me aperfeiçoando. Ativo nas comunidades Rocketseat, Origamid, Cod3r, B7web, Udemy e constantemente aprendendo e aplicando.. 😄
+
+- Estou cursando meu 2 semestre de Análise e Desenvolvimento de Sistemas. 💻
+
+
+
+
+
+
+
+## Seja muito bem vindo (a) ao meu Github.  😄
 
 
 <div>
