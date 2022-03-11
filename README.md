@@ -30,7 +30,7 @@ sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar  Dev Fro
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Desenvolvedor Front-end a 1 ano.
-- Possuo habilidades em trabalhar com desenvolvimento Front-End. Conto ainda com Skills em diversas tecnologias e ferramentas como:
+- Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UX/UI Designer (Figma). Conto ainda com Skills em diversas tecnologias e ferramentas como:
   HTML5, CSS3, Sass, Git, Github, JavaScript, ES6, Angular 9, Design(Figma).
   
   Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban).
