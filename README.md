@@ -14,34 +14,23 @@ Olá, eu sou o Vinícius! 🇧🇷
 </h3>
 
 ```
-Estudante de Análise e Desenvolvimento de Sistemas pela  - Universidade Cruzeiro do Sul, 
+Formado em Análise e Desenvolvimento de Sistemas pela  - Universidade Cruzeiro do Sul, 
 sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar  Dev Front-end.
 ```
-## Tecnologias que estou estudando atualmente 💻
-
-  - Bootstrap
-  - TypeScript
-  - Gerenciamento de pacotes: npm/yarn
-  - Build Tools: Gulp
-  - React.js
-  - Next.js
   
-
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Desenvolvedor Front-end a 1 ano.
+- Desenvolvedor Front-end Júnior a 3 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UX/UI Designer (Figma). Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  HTML5, CSS3, Sass, Git, Github, JavaScript, ES6, Angular 9, Design(Figma).
+  HTML5, CSS3, Sass, Bootstrap, Git, Github, JavaScript, TypeScript, ES6, Angular 9, Design(Figma).
   
-  Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban).
+  Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban) e Jira.
  
   Execução de Testes unitários (Karma, Jasmine).
 
 - Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
 
 - Busco sempre estar ligado nas novas tendências do mercado e estar me aperfeiçoando. Ativo nas comunidades Rocketseat, Origamid, Cod3r, B7web, Udemy e constantemente aprendendo e aplicando.. 😄
-
-- Estou cursando meu 2 semestre de Análise e Desenvolvimento de Sistemas. 💻
 
 
 
