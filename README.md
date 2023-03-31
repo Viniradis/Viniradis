@@ -8,19 +8,19 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Vinícius! 🇧🇷
+👋 Olá, eu sou o Vinícius, um desenvolvedor front-end apaixonado pelo que faz! 🇧🇷
 <br>
 
 </h3>
 
 ```
 Formado em Análise e Desenvolvimento de Sistemas pela  - Universidade Cruzeiro do Sul, 
-sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar  Dev Front-end.
+sou fascinado por tecnologia.
 ```
   
-## Alguns fatos sobre mim 👨🏻‍💻
+## Sobre mim 👨🏻‍💻
 
-- Desenvolvedor Front-end Júnior a 3 anos.
+- Desenvolvedor Front-end a 3 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UX/UI Designer (Figma). Conto ainda com Skills em diversas tecnologias e ferramentas como:
   HTML5, CSS3, Sass, Bootstrap, Git, Github, JavaScript, TypeScript, ES6, Angular 9, Design(Figma).
   
