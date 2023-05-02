@@ -28,8 +28,6 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
   
   - Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban) e Jira.
   - Execução de Testes unitários (Karma, Jasmine).
-  - Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e   soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
-
 
 
 ## Seja muito bem vindo (a) ao meu Github.  😄
