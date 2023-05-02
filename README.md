@@ -1,9 +1,3 @@
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-<hr>
-
 
 ```
 Formado em Análise e Desenvolvimento de Sistemas pela  - Universidade Cruzeiro do Sul, 
@@ -14,43 +8,28 @@ sou fascinado por tecnologia.
 
 <h2>Hello World ☕</h2>
 
-<p>Iuri, ou mais conhecido como iuricode, é UI Designer e Desenvolvedor Frontend. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.</p>
+<p>Vinícius, ou mais conhecido como vini, é UI Designer e Desenvolvedor Frontend. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e tecnologia.</p>
 
 </br>
-
-<h3>Caso queira acompanhar meus conteúdos:</h3> 
-
-<div align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF"/>
-  </a>
-</div>
   
 ## Sobre mim 👨🏻‍💻
 
 - Desenvolvedor Front-end a 3 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UX/UI Designer (Figma). Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  HTML5, CSS3, Sass, Bootstrap, Git, Github, JavaScript, TypeScript, ES6, Angular 9, Design(Figma).
+  HTML5
+  CSS3
+  Sass
+  Bootstrap
+  Git
+  Github
+  JavaScript
+  TypeScript
+  Angular 9
+  Design(Figma).
   
-  Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban) e Jira.
- 
-  Execução de Testes unitários (Karma, Jasmine).
-
-- Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
-
-- Busco sempre estar ligado nas novas tendências do mercado e estar me aperfeiçoando. Ativo nas comunidades Rocketseat, Origamid, Cod3r, B7web, Udemy e constantemente aprendendo e aplicando.. 😄
-
-
-
-
+  - Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban) e Jira.
+  - Execução de Testes unitários (Karma, Jasmine).
+  - Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e   soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
 
 
 
