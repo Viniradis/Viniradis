@@ -15,19 +15,10 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
 
 - Desenvolvedor Front-end a 3 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UI Designer. Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  - HTML5 
-  - CSS3
-  - Sass
-  - Bootstrap
-  - Git
-  - Github
-  - JavaScript
-  - TypeScript
-  - Angular 9
-  - Design(Figma).
+  - HTML5 / CSS3 / Sass / Bootstrap / Git / Github / JavaScript / TypeScript / Angular 9 / Figma.
   
-  - Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban) e Jira.
-  - Execução de Testes unitários (Karma, Jasmine).
+  - Metodologias ágeis Scrum, Kanban e Jira.
+  - Execução de Testes unitários Karma e Jasmine.
 
 
 ## Seja muito bem vindo (a) ao meu Github.  😄
