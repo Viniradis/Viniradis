@@ -15,7 +15,7 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
 
 - Desenvolvedor Front-end a 3 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UX/UI Designer (Figma). Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  #HTML5 #CSS3
+  1.HTML5 2.CSS3
   *Sass
   *Bootstrap
   *Git
