@@ -22,7 +22,7 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
   - Testes unitários: Karma e Jasmine.
 
 
-## Seja muito bem vindo (a) ao meu Github.  😄
+## muito bem vindo (a) ao meu github.
 
 
 <div>
