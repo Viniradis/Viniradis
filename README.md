@@ -18,13 +18,13 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
   - HTML5 
   - CSS3
   - Sass
-  *Bootstrap
-  *Git
-  *Github
-  *JavaScript
-  *TypeScript
-  *Angular 9
-  *Design(Figma).
+  - Bootstrap
+  - Git
+  - Github
+  - JavaScript
+  - TypeScript
+  - Angular 9
+  - Design(Figma).
   
   - Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban) e Jira.
   - Execução de Testes unitários (Karma, Jasmine).
