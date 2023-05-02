@@ -3,7 +3,8 @@
 Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul.
 ```
  
- <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo vinicode">
+ <img src="https://user-images.githubusercontent.com/79069373/235694894-a7117f1a-5ef2-4528-ab47-092ac93e5341.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo vinicode">
+ 
 
 <h2>Hello World ☕</h2>
 
