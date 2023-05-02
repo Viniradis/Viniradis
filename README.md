@@ -1,6 +1,6 @@
 
 ```
-Formado em Análise e Desenvolvimento de Sistemas pela  - Universidade Cruzeiro do Sul.
+Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul.
 ```
  
  <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo vinicode">
@@ -15,16 +15,16 @@ Formado em Análise e Desenvolvimento de Sistemas pela  - Universidade Cruzeiro 
 
 - Desenvolvedor Front-end a 3 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UX/UI Designer (Figma). Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  HTML5
-  CSS3
-  Sass
-  Bootstrap
-  Git
-  Github
-  JavaScript
-  TypeScript
-  Angular 9
-  Design(Figma).
+  *HTML5
+  *CSS3
+  *Sass
+  *Bootstrap
+  *Git
+  *Github
+  *JavaScript
+  *TypeScript
+  *Angular 9
+  *Design(Figma).
   
   - Gerenciamento e execução de projetos, utilizando metodologias ágeis (Scrum) e (Kanban) e Jira.
   - Execução de Testes unitários (Karma, Jasmine).
