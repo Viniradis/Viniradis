@@ -21,14 +21,6 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
   - Metodologias ágeis: Scrum, Kanban e Jira.
   - Testes unitários: Karma e Jasmine.
 
-
-
-
-<div>
-  <a href="https://github.com/Viniradis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniradis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniradis&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
