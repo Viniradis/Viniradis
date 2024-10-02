@@ -8,18 +8,22 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
 
 <h2>Hello World ☕</h2>
 
-<p>Vinícius, ou mais conhecido como vini, é UI Designer e Desenvolvedor Frontend. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e tecnologia.</p>
+<p>Vinícius, ou mais conhecido como vini, é Desenvolvedor Full Stack. Produz conteúdo desde 2020 sobre desenvolvimento. Extremamente apaixonado por café e tecnologia.</p>
 
 </br>
   
 ## Sobre mim 👨🏻‍💻
 
-- Desenvolvedor Front-end Pleno a 3 anos.
+- Desenvolvedor Full Stack Pleno a 6 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UI Designer. Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  - HTML5 / CSS3 / Sass / Bootstrap / Git / Github / JavaScript / TypeScript / Angular 9 / Figma.
+  - HTML5 / CSS3 / Sass / Bootstrap / Git / Github / JavaScript / TypeScript / Node.js / Angular 9 + 12 / React.js / Tailwind CSS / Next.js / Nest / Banco de Dados/ Figma.
   
   - Metodologias ágeis: Scrum, Kanban e Jira.
   - Testes unitários: Karma e Jasmine.
+ 
+  - No front-end, trabalho com HTML5, CSS3, Sass, Bootstrap, JavaScript, TypeScript, Angular 8,12+, React.js, Next.js, Tailwind CSS. garantindo uma interface moderna e funcional. Realizo testes unitários no front-end com Jasmine e Karma para assegurar a qualidade do código.
+
+No back-end, tenho experiência com Node.js e Python, desenvolvendo APIs e integrando com bancos de dados MySQL. Utilizo Docker para contêinerização e deploy, além de Git e GitHub para versionamento e CI/CD para entrega contínua.
 
   
   <div style="display: inline_block"><br>
