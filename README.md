@@ -14,16 +14,15 @@ Formado em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
   
 ## Sobre mim 👨🏻‍💻
 
-- Desenvolvedor Full Stack Pleno a 6 anos.
-- Possuo habilidades em trabalhar com desenvolvimento Front-End e conhecimentos em UI Designer. Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  - HTML5 / CSS3 / Sass / Bootstrap / Git / Github / JavaScript / TypeScript / Node.js / Angular 9 + 12 / React.js / Tailwind CSS / Next.js / Nest / Banco de Dados/ Figma.
-  
-  - Metodologias ágeis: Scrum, Kanban e Jira.
-  - Testes unitários: Karma e Jasmine.
- 
-  - No front-end, trabalho com HTML5, CSS3, Sass, Bootstrap, JavaScript, TypeScript, Angular 8,12+, React.js, Next.js, Tailwind CSS. garantindo uma interface moderna e funcional. Realizo testes unitários no front-end com Jasmine e Karma para assegurar a qualidade do código.
+👋 Olá! Sou o Vinícius, Desenvolvedor Full Stack Pleno com experiência em front-end, back-end e bancos de dados, graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
 
-  - No back-end, tenho experiência com Node.js e Python, desenvolvendo APIs e integrando com bancos de dados MySQL. Utilizo Docker para contêinerização e deploy, além de Git e GitHub para versionamento e CI/CD para entrega contínua.
+🚀 No front-end, desenvolvo interfaces modernas e responsivas utilizando HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Angular (8, 12+ 20), React.js e Next.js. Tenho experiência com testes unitários (Jasmine e Karma) para garantir qualidade e confiabilidade no código.
+
+⚙️ No back-end, atuo com Node.js, Python e Java com Spring Boot, desenvolvendo APIs RESTful, microserviços e integrações. Utilizo JDBC para conexões diretas e sou familiarizado com Docker, Git, GitHub e CI/CD, garantindo processos ágeis de entrega e deploy.
+
+💾 Em bancos de dados, trabalho com DB2, PostgreSQL, MySQL e SQLite (SQLiteStudio), com experiência em criação de queries otimizadas, procedures e modelagem de dados para aplicações escaláveis.
+
+📌 Também aplico metodologias ágeis (Scrum e Kanban) e sigo boas práticas de desenvolvimento como Clean Code e SOLID, sempre focado em escalabilidade, manutenção e qualidade de software.
 
   
   <div style="display: inline_block"><br>
